@@ -4,7 +4,8 @@
 ##  💻  Seguridad Informatica | 🛡️ Ciberseguridad 🕵️
 
 🌱 **Actualmente estoy estudiando seguridad Informatica en Cenec / Málaga**
-Soy una profesional aprediz, dinámica y comprometida con el aprendizaje constante en ciberseguridad. Me interesa la investigación de vulnerabilidades, el análisis de riesgos y la implementación de buenas prácticas en seguridad informática. Disfruto colaborar en proyectos open source y fortalecer mis habilidades técnicas en un entorno de mejora continua.
+
+*Soy una profesional aprediz, dinámica y comprometida con el aprendizaje constante en ciberseguridad. Me interesa la investigación de vulnerabilidades, el análisis de riesgos y la implementación de buenas prácticas en seguridad informática. Disfruto colaborar en proyectos open source y fortalecer mis habilidades técnicas en un entorno de mejora continua.
 
 ---
                                                            
@@ -18,12 +19,16 @@ Soy una profesional aprediz, dinámica y comprometida con el aprendizaje constan
                                                              
 ## 🐧 Sistemas Operativos Preferidos
 **Seguridad/Auditoría:** 💀 Kali Linux
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kalilinux.svg" alt="Kali Linux" width="40" height="40"/>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge"/>
+  
+  <br> 
 
 **Desarrollo:** ⭕ Ubuntu
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
+  
+  <br> 
 
 **Otros:** 🪟 Windows 11
 <p align="center">
