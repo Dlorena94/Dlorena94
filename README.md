@@ -71,8 +71,10 @@
   <img src="https://img.shields.io/badge/ORACLE%20VIRTUALBOX-181717?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox Badge"/>
 </p>
 ---
+
 ## 🚀 Otros
 ***
+
 <p align="center">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge"/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
