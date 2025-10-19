@@ -26,12 +26,14 @@
   <br> 
   
 **Desarrollo:** ⭕ Ubuntu
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
+</div>
 
 **Otros:** 🪟 Windows 11
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
-</p>
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
+</div>
 ---
 
 ##  🖥️ Editores de Texto
