@@ -27,7 +27,7 @@
 
 **Desarrollo:** ⭕ Ubuntu
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="80" height="40"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"/>
 </p> 
 
 **Otros:** 🪟 Windows 11
