@@ -21,19 +21,20 @@
 ## 🐧 Sistemas Operativos Preferidos
 
 **Seguridad/Auditoría:** 💀 Kali Linux
-<div align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge"/>
-  <br> 
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge"/>
+</p>
+
 **Desarrollo:** ⭕ Ubuntu
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
-</div>
+</p>
 
 **Otros:** 🪟 Windows 11
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
-</div>
+</p>
+
 ---
 
 ##  🖥️ Editores de Texto
