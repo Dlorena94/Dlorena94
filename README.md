@@ -18,7 +18,7 @@
 
 ---
                                                              
-## 🐧 Sistemas Operativos Preferidos
+## 🐧 Sistemas Operativos 
 
 **Seguridad/Auditoría:** 💀 Kali Linux
 <p align="center">
