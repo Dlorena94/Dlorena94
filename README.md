@@ -9,26 +9,23 @@
 
 ---
                                                            
-##⚙️ Mi Stack de Seguridad y Tecnologías 🚨
-**Escaneo/Detección:** 🔍 Nmap, Wireshark, Metasploit
-**Detección de Intrusos (IDS/IPS):** 👀Suricata
-**Contenedores y Seguridad:** 📦 Docker
-**🔑 Autenticación y Criptografía:** 🔐Kleopatra 
+## ⚙️ Mi Stack de Seguridad y Tecnologías 🚨
+
+* **Escaneo/Detección:** 🔍 Nmap, Wireshark, Metasploit
+* **Detección de Intrusos (IDS/IPS):** 👀Suricata
+* **Contenedores y Seguridad:** 📦 Docker
+* **🔑 Autenticación y Criptografía:** 🔐Kleopatra 
 
 ---
                                                              
 ## 🐧 Sistemas Operativos Preferidos
+
 **Seguridad/Auditoría:** 💀 Kali Linux
 <div align="center">
-  
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge"/>
-  
   <br> 
-
+  
 **Desarrollo:** ⭕ Ubuntu
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
-  
-  <br> 
 
 **Otros:** 🪟 Windows 11
 <p align="center">
@@ -36,13 +33,15 @@
 </p>
 
 ---
+
 ##  🖥️ Editores de Texto
 
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 
 ---
-##🌐 Idiomas (Lenguajes de Programación)
+
+## 🌐 Idiomas (Lenguajes de Programación)
 
 <p aling="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
