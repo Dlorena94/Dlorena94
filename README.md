@@ -27,8 +27,8 @@
 
 **Desarrollo:** ⭕ Ubuntu
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="80" height="40"/>
+</p> 
 
 **Otros:** 🪟 Windows 11
 <p align="center">
